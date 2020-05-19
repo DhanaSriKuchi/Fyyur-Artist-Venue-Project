@@ -1,0 +1,5 @@
+U
+    ÷—Š^ş   ã                   @   s2   d dl Z e  d¡Ze j e j e¡¡ZdZdZ	dS )é    Né    Tz)postgres://postgres:@localhost:5432/fyyur)
+ÚosÚurandomÚ
+SECRET_KEYÚpathÚabspathÚdirnameÚ__file__ZbasedirÚDEBUGÚSQLALCHEMY_DATABASE_URI© r   r   úN/Users/fsteffenino/Desktop/udacity/part1/Fyyur/01_fyyur/starter_code/config.pyÚ<module>   s   
+
